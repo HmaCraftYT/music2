@@ -350,7 +350,7 @@ client.on('ready', () => {
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`Play :notes: Zonix'Music | 4play`)
-client.user.setStatus("dnd")
+client.user.setStatus("online")
 });
 
 client.login(process.env.BOT_TOKEN);
