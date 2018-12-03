@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Play :notes: Zonix'Music | 4play`)
+client.user.setGame(`Play 🎶 Zonix'Music | 4play`)
 client.user.setStatus("online")
 });
 
